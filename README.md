@@ -5,7 +5,7 @@ Zomato clone website using React Js
 
 ## 💻 Demo
 
-[Website Link](https://zomato-clone-using-react.netlify.app/)
+[Zomato Clone Website Link](https://zomato-clone-using-react.netlify.app/)
 
 ## Available Scripts
 
@@ -77,11 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 📍 Screenshots
 
-![Delivery](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
-
-![Dining Out](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
-
-![Night Life](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
+![Delivery](https://github.com/Tushar-goyal-2712/Zomato-clone-using-react/blob/9178efd3891cafeb2de6daba267ce91db5a410c4/Screenshots/Delivery.png)
 
 ## 📍 Deployment
 
