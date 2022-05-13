@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Zomato Clone Using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Zomato clone website using React Js
+
+
+## 💻 Demo
+
+[Website Link](https://zomato-clone-using-react.netlify.app/)
 
 ## Available Scripts
 
@@ -68,3 +73,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 📍 Screenshots
+
+![Delivery](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
+
+![Dining Out](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
+
+![Night Life](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
+
+## 📍 Deployment
+
+The project is deployed on Netlify
+
+## 👨‍💻 Feedback
+
+If you have any feedback, please reach out to us at tushargoyal2712@gmail.com

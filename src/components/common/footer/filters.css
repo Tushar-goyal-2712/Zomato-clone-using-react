@@ -1,0 +1,12 @@
+.copywrite {
+  padding: 16px 0px;
+}
+
+.copywrite a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+.copywrite a:hover {
+  color: #ff7e8b;
+}
